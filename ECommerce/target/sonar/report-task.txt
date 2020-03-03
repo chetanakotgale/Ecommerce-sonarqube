@@ -1,0 +1,6 @@
+projectKey=com.epam.app:ECommerce
+serverUrl=http://localhost:9000
+serverVersion=6.7.7.38951
+dashboardUrl=http://localhost:9000/dashboard/index/com.epam.app:ECommerce
+ceTaskId=AXCgL0uQRzQzCf7UW0me
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXCgL0uQRzQzCf7UW0me
